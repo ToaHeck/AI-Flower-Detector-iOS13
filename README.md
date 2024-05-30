@@ -4,7 +4,7 @@
 
 This flower identification app is a simple iOS application, developed in Swift 5, that makes identifying flower species straightforward and engaging. Leveraging the power of CoreML and the Oxford102 flower model, the app uses the device's camera to capture images of flowers and determine their species. While the model includes only 102 flower species, the app provides the closest match, making it a useful tool for flower enthusiasts and casual users alike. To enhance the user experience, the app also integrates with Wikipedia, fetching detailed information about the identified flower species.
 
-!(https://github.com/ToaHeck/AI-Flower-Detector-iOS16/blob/main/WhatFlower/Assets.xcassets/appDemo1.gif?raw=true)
+![app Demo](https://github.com/ToaHeck/AI-Flower-Detector-iOS16/blob/main/WhatFlower/Assets.xcassets/appDemo1.gif?raw=true)
 
 
 ## Features
@@ -30,7 +30,7 @@ This flower identification app is a simple iOS application, developed in Swift 5
    git clone https://github.com/ToaHeck/Flower-Detection-App.git
 2. Open the project in Xcode.
 3. Build and run the application on the iOS simulator or a physical device.
-   NOTE: the camera function will only work on a physicl device.
+   NOTE: the camera function will only work on a physical device.
 
 ## Usage
 
