@@ -1,5 +1,4 @@
 # AI Flower Detection 
-## An iOS application for viewing weather conditions around the world
 
 ## Overview
 
